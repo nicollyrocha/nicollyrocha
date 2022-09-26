@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- <img height="80" width="300" justifyContent="center" src="https://data.whicdn.com/images/257039116/original.gif"/><img height="80" width="300" justifyContent="center" src="https://data.whicdn.com/images/257039116/original.gif"/><img height="80" width="300" justifyContent="center" src="https://data.whicdn.com/images/257039116/original.gif"/>
+ <img height="80" width="300" justifyContent="center" src="https://data.whicdn.com/images/257039116/original.gif"/><img height="80" width="300" justifyContent="center" src="https://data.whicdn.com/images/257039116/original.gif"/>
 </p>
 
 
