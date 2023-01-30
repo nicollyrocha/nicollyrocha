@@ -45,7 +45,7 @@ technical_background:
     "Intern - Support - All Integra",
     "Intern - Development - IBM (Javascript, React, Typescript, HTML, CSS, SQL, Carbon) - 01/2021-01/2023",
   ]
-currently_learning: ["Vue"]
+currently_learning: ["React/Redux"]
 hobbies: ["Gaming", "Cinema", "Netflix"]
 ```
   
