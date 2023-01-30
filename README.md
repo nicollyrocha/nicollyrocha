@@ -30,7 +30,7 @@
 ```yaml
 name: Nicolly Rocha
 located_in: Rio de Janeiro, Brazil
-current_job: Full Stack Developer Intern
+current_job: Software Engineer Jr @ Stark
 education:
   [
     "Bachelor's in Information Systems - Graduation in december, 2022",
@@ -43,7 +43,7 @@ fields_of_interests:
 technical_background:
   [
     "Intern - Support - All Integra",
-    "Intern - Development - IBM (Javascript, React, Typescript, HTML, CSS, SQL, Carbon) - Current job",
+    "Intern - Development - IBM (Javascript, React, Typescript, HTML, CSS, SQL, Carbon) - 01/2021-01/2023",
   ]
 currently_learning: ["Vue"]
 hobbies: ["Gaming", "Cinema", "Netflix"]
