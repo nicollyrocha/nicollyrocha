@@ -42,10 +42,10 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Intern - Support - All Integra",
     "Intern - Development - IBM (Javascript, React, Typescript, HTML, CSS, SQL, Carbon) - 01/2021-01/2023",
+    "Software Engineer Jr - Stark (Javascript, React, Typescript, HTML, CSS, Bootstrap, Tailwind, Firebase) - 01/2023-now",
   ]
-currently_learning: ["React/Redux"]
+currently_learning: ["React", "Python"]
 hobbies: ["Gaming", "Cinema", "Netflix"]
 ```
   
@@ -56,7 +56,6 @@ hobbies: ["Gaming", "Cinema", "Netflix"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
