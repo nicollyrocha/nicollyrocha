@@ -39,7 +39,7 @@ technical_background:
     "Intern - Development - IBM (Javascript, React, Typescript, HTML, CSS, SQL, Carbon) - 01/2021-01/2023",
     "Software Engineer Jr - Stark (Javascript, React, Typescript, HTML, CSS, Bootstrap, Tailwind, Firebase) - 01/2023-now",
   ]
-currently_learning: ["React", "Python"]
+currently_learning: ["Vue"]
 hobbies: ["Gaming", "Cinema", "Netflix"]
 ```
   
