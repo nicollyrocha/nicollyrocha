@@ -24,7 +24,7 @@
 ```yaml
 name: Nicolly Rocha
 located_in: Rio de Janeiro, Brazil
-current_job: Software Engineer Jr @ Stark
+current_job: Frontend Developer @ Voltera
 education:
   [
     "Bachelor's in Information Systems - Graduation in december, 2022",
@@ -33,13 +33,15 @@ fields_of_interests:
   [
     "Web Development",
     "Application Development",
+    "Frontend developer"
   ]
 technical_background:
   [
     "Intern - Development - IBM (Javascript, React, Typescript, HTML, CSS, SQL, Carbon) - 01/2021-01/2023",
-    "Software Engineer Jr - Stark (Javascript, React, Typescript, HTML, CSS, Bootstrap, Tailwind, Firebase) - 01/2023-now",
+    "Software Engineer Jr - Stark (Javascript, React, Typescript, HTML, CSS, Bootstrap, Tailwind, Firebase) - 01/2023-05/2024",
+    "Frontend Developer - Voltera (Javascript, Svelte, CSS) - 06/2023-now",
   ]
-currently_learning: ["Vue"]
+currently_learning: ["Svelte"]
 hobbies: ["Gaming", "Cinema", "Netflix"]
 ```
   
