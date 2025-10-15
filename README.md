@@ -39,7 +39,8 @@ technical_background:
   [
     "Intern - Development - IBM (Javascript, React, Typescript, HTML, CSS, SQL, Carbon) - 01/2021-01/2023",
     "Software Engineer Jr - Stark (Javascript, React, Typescript, HTML, CSS, Bootstrap, Tailwind, Firebase) - 01/2023-05/2024",
-    "Frontend Developer - Voltera (Javascript, Svelte, CSS) - 06/2023-now",
+    "Frontend Developer - Voltera (Javascript, Svelte, CSS) - 06/2023-07/2025",
+    "Digital Innovation Assistant - Voltalia (Typescript, React, Next) - 07/2025-09/2025",
   ]
 currently_learning: ["Svelte"]
 hobbies: ["Gaming", "Cinema", "Netflix"]
