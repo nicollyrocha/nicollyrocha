@@ -27,7 +27,8 @@ located_in: Rio de Janeiro, Brazil
 current_job: Frontend Developer @ Voltera
 education:
   [
-    "Bachelor's in Information Systems - Graduation in december, 2022",
+    "Bachelor's in Information Systems - Graduated in December 2022",
+    "Postgraduate in Software Engineering - Graduated in May 2025",
   ]
 fields_of_interests:
   [
@@ -42,8 +43,7 @@ technical_background:
     "Frontend Developer - Voltera (Javascript, Svelte, CSS) - 06/2023-07/2025",
     "Digital Innovation Assistant - Voltalia (Typescript, React, Next) - 07/2025-09/2025",
   ]
-currently_learning: ["Svelte"]
-hobbies: ["Gaming", "Cinema", "Netflix"]
+hobbies: ["Gaming", "Cinema", "Netflix", Reading]
 ```
   
 ---  
