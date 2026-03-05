@@ -24,7 +24,7 @@
 ```yaml
 name: Nicolly Rocha
 located_in: Rio de Janeiro, Brazil
-current_job: Frontend Developer @ Voltera
+current_job: -
 education:
   [
     "Bachelor's in Information Systems - Graduated in December 2022",
