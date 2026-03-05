@@ -60,17 +60,3 @@ hobbies: ["Gaming", "Cinema", "Netflix", "Reading"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
 </p>
-
----
-
-<h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/thepiyushmalhotra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicollyrocha&theme=omni&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollyrocha&theme=omni&layout=compact" />
-</a>
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-  
-<p align="center" height="180em">
-  <img height="180em" src="https://thumbs.gfycat.com/ConsiderateInsignificantAcouchi-max-1mb.gif"/>
-</p>
