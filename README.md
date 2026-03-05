@@ -43,7 +43,7 @@ technical_background:
     "Frontend Developer - Voltera (Javascript, Svelte, CSS) - 06/2023-07/2025",
     "Digital Innovation Assistant - Voltalia (Typescript, React, Next) - 07/2025-09/2025",
   ]
-hobbies: ["Gaming", "Cinema", "Netflix", Reading]
+hobbies: ["Gaming", "Cinema", "Netflix", "Reading"]
 ```
   
 ---  
